@@ -25,7 +25,7 @@ html, body {
   display: flex;
   justify-content: center;
   color:white;
-  padding-left: 20px;
+
 }
 
 .link-button{
@@ -40,7 +40,7 @@ html, body {
 }
 
 .link-button:hover{
-  background-color:black;
+  background-color:grey;
   color:white;
   cursor:pointer;
 }
